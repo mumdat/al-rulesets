@@ -1,0 +1,20 @@
+{
+    "name": "mumdat - PTE - App - Ruleset",
+    "rules": [
+        {
+            "id": "PTE0012",
+            "action": "None",
+            "justification": "PerTenantExtensionCop Warning PTE0012"
+        },
+        {
+            "id": "AS0081",
+            "action": "None",
+            "justification": "AppSourceCop Warning AS0081"
+        },
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "AppSourceCop Error AS0084"
+        }
+    ]
+}
