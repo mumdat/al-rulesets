@@ -1,10 +1,4 @@
 {
     "name": "mumdat - AppSource - App - Ruleset",
-    "rules": [
-        {
-            "id": "AS0081",
-            "action": "None",
-            "justification": "AppSourceCop Warning AS0081"
-        }
-    ]
+    "rules": []
 }

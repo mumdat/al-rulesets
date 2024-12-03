@@ -7,11 +7,6 @@
             "justification": "AppSourceCop Error AS0015"
         },
         {
-            "id": "AS0081",
-            "action": "None",
-            "justification": "AppSourceCop Warning AS0081"
-        },
-        {
             "id": "AS0092",
             "action": "None",
             "justification": "AppSourceCop Warning AS0092"
