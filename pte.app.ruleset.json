@@ -10,6 +10,11 @@
             "id": "AS0084",
             "action": "None",
             "justification": "AppSourceCop Error AS0084"
-        }
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "AppSourceCop Warning AS0092"
+        }		
     ]
 }
