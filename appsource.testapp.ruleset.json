@@ -2,6 +2,11 @@
     "name": "mumdat - AppSource - TestApp - Ruleset",
     "rules": [
         {
+            "id": "AA0247",
+            "action": "None",
+            "justification": "CodeCop Info AA0247"
+        },
+        {
             "id": "AS0015",
             "action": "None",
             "justification": "AppSourceCop Error AS0015"

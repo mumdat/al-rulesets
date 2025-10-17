@@ -1,4 +1,10 @@
 {
     "name": "mumdat - AppSource - App - Ruleset",
-    "rules": []
+    "rules": [
+        {
+            "id": "AA0247",
+            "action": "None",
+            "justification": "CodeCop Info AA0247"
+        }
+    ]
 }

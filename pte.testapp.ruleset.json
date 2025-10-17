@@ -2,6 +2,11 @@
     "name": "mumdat - PTE - TestApp - Ruleset",
     "rules": [
         {
+            "id": "AA0247",
+            "action": "None",
+            "justification": "CodeCop Info AA0247"
+        },
+        {
             "id": "PTE0012",
             "action": "None",
             "justification": "PerTenantExtensionCop Warning PTE0012"
